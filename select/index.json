@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "平凡、時にミラクル",
+  "base_artist": "ヒシミラクル (CV. 春日さくら)",
+  "createdAt": "2026-03-31T05:03:16.110356Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "平凡、時にミラクル",
+      "artist": "ヒシミラクル(春日さくら)",
+      "has_synced": false,
+      "path": "select/pl_01_平凡、時にミラクル_ヒシミラクル(春日さくら).txt"
+    }
+  ]
+}
